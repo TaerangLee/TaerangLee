@@ -1,5 +1,5 @@
 # Hi👋, I am a student at Gwangju Software Meister High School.
-<h4>안녕하세요!! 저는 Front-End 개발자가 되고 싶은 학생입니다.</h4>
+<h3>안녕하세요!! 저는 Front-End 개발자가 되고 싶은 학생입니다.</h3>
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Taerang%20Github!&fontSize=90" />	
